@@ -1,0 +1,24 @@
+git initial commands
+
+…or create a new repository on the command line
+echo "# Automated-Timetable-Generator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashishk5524/Automated-Timetable-Generator.git
+git push -u origin main
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/ashishk5524/Automated-Timetable-Generator.git
+git branch -M main
+git push -u origin main
+
+
+
+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
+
+
+git remote set-url origin https://ashishk5524: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@github.com/ashishk5524/REPO.git
