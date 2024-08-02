@@ -15,10 +15,3 @@ git push -u origin main
 git remote add origin https://github.com/ashishk5524/Automated-Timetable-Generator.git
 git branch -M main
 git push -u origin main
-
-
-
-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
-
-
-git remote set-url origin https://ashishk5524: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@github.com/ashishk5524/REPO.git
